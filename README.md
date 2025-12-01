@@ -1,1 +1,1 @@
-# Spr-1
+# sprawdzian_HTML_CSS_Grabowski-Dworkowski_Szymon
