@@ -1,0 +1,23 @@
+*{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+h1{
+    color: darkgoldenrod;
+    text-align: center;
+}
+p{
+    margin: 10px;
+    line-height: 20px;
+    text-indent: 200px;
+}
+ul{
+    list-style-type: circle;
+    padding: 19px;
+}
+.wyroznione{
+    background-color: darkgoldenrod;
+    font-weight: bold;
+}
