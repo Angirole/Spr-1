@@ -1,5 +1,5 @@
 *{
-    background-color: aquamarine;
+    background-color: darkolivegreen;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
 }
@@ -7,11 +7,22 @@
 h1{
     color: darkgoldenrod;
     text-align: center;
+    opacity: 0.9;
+}
+h1:hover{
+    color: black;
+    opacity: 1.0;
+    transition: 2s;
 }
 p{
     margin: 10px;
     line-height: 20px;
     text-indent: 200px;
+    opacity: 0.5;
+}
+p:hover{
+    opacity: 1.0;
+    transition: 2s;
 }
 ul{
     list-style-type: circle;
